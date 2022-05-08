@@ -1,6 +1,6 @@
 ### Olá! 🤙
 
-Olá! Meu nome é Elton, tenho 24 anos e sou desenvolvedor front-end Jr..<br/>
+Meu nome é Elton, tenho 24 anos e sou desenvolvedor front-end Jr..<br/>
 🤓 Stacks: HTML, CSS3, Sass,  JavaScript, React,  styled-components, Redux, Context-Api...<br/>
 💼 Ferramentas: VS Code, Git, GitHub, FireBase, Vercel...
 
