@@ -1,4 +1,4 @@
-### Olá! Eu sou o Elton Freitas 🤙
+### Olá! 🤙
 
 Olá! Meu nome é Elton, tenho 24 anos e sou desenvolvedor front-end Jr..
 🤓 Stacks: HTML, CSS3, Sass,  JavaScript, React,  styled-components, Redux, Context-Api...
