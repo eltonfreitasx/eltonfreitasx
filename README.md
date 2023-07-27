@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](xelton207@gmai.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581988358284)
 
-![eltonfreitasX's GitHub stats ](https://github-readme-stats.vercel.app/api?username=eltonfreitasX&show_icons=true&theme=merko)
+<!-- ![eltonfreitasX's GitHub stats ](https://github-readme-stats.vercel.app/api?username=eltonfreitasX&show_icons=true&theme=merko)-->
 
 ### Tecnologias que utilizo no dia-a-dia 🤙
 
