@@ -5,7 +5,7 @@
 💼 Ferramentas: VS Code, Git, GitHub, FireBase
 
 <h3>Portifólio</h3>
-https://portfolio-eltonfreitas.vercel.app/
+https://portfolio-eltonfreitas.vercel.app/<br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-freitas-7a0182200/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](xelton207@gmai.com)
