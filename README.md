@@ -2,7 +2,10 @@
 
 ## Meu nome é Elton, tenho 25 anos e sou desenvolvedor front-end Jr..<br/>
 🤓 Stacks: HTML, CSS3, Sass,  JavaScript, React,  styled-components, Redux, Context-Api...<br/>
-💼 Ferramentas: VS Code, Git, GitHub, FireBase, Vercel...
+💼 Ferramentas: VS Code, Git, GitHub, FireBase
+
+<h3>Portifólio</h3>
+https://portfolio-eltonfreitas.vercel.app/
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-freitas-7a0182200/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](xelton207@gmai.com)
