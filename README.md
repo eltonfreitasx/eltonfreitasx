@@ -1,7 +1,7 @@
 ### Olá! 🤙
 
-## Meu nome é Elton, tenho 25 anos e sou desenvolvedor front-end.<br/>
-🤓 Stacks: HTML, CSS3, Sass,  JavaScript, React,  styled-components, Redux, Context-Api...<br/>
+## Meu nome é Elton, tenho 25 anos e sou desenvolvedor front-end<br/>
+🤓 Stacks: HTML, CSS3, Sass,  JavaScript, React,  styled-components, Redux, Context-Api<br/>
 💼 Ferramentas: VS Code, Git, GitHub, FireBase
 
 <h3>Portifólio</h3>
