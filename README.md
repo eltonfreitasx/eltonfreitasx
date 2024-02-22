@@ -1,9 +1,24 @@
 ### Olá! 🤙
 
 ## Meu nome é Elton, tenho 26 anos e sou desenvolvedor front-end<br/>
-🤓 Stacks: HTML, CSS3, Sass,  JavaScript, React,  styled-components, Redux, Context-Api<br/>
-💼 Ferramentas: VS Code, Git, GitHub, FireBase
 
+### Stacks 🤓
+- HTML5
+- CSS3
+- Sass
+- JavaScript
+- TypeScript
+- React
+- Next
+- Styled-components
+- Redux
+- Context API
+
+### Ferramentas 💼
+- VS Code
+- Git
+- GitHub
+- Firebase
 <h3>Portifólio</h3>
 https://portfolio-eltonfreitas.vercel.app/<hr>
 
