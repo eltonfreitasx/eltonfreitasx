@@ -5,7 +5,7 @@
 ### Stacks 🤓
 Html, Css, Sass, JavaScript, TypeScript, React, Redux, Next,Context Api, Styled-components,
 Deploys, Requisições HTTP, Json-server, Api-Rest, Tailwind,
-Express, Node.js e um pouco de React Native.
+Express, Node.js, React Native.
 
 ### Ferramentas 💼
 VSCode, Git, GitHub,Firebase
